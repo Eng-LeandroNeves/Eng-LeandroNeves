@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Leandro Neves</h1>
-<h3 align="center">Um engenheiro mecânico com foco em resultado</h3>
+<h3 align="center">Sou formado em Engenharia Mecânica pela UFSC, com especialização em projeto mecãnico 3D (Autodesk Inventor, Solidworks, etc) e técnicas de instrumentação, automação fluídodinãmica e processos de fabricação mecãnica e planejamento industrial. Atualmente minha rotina envolve atividades pedagógicas como especialista de ensino pelo SENAI-SC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-leandroneves&label=Profile%20views&color=0e75b6&style=flat" alt="eng-leandroneves" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 Estou atualmente aprendendo **Blender e no futuro ZBrush**
 
-- 👯 Estou disposto a colaborar com projestistas **Mecânicos, de Ruído, etc**
+- 👯 Estou disposto a colaborar com projestistas **Mecânicos, de Controle de Ruído, etc**
 
 - 👨‍💻 Todos os meus projetos estarão em breve disponíveis em [https://eng-leandroneves.github.io/portfolio/](https://eng-leandroneves.github.io/portfolio/)
 
